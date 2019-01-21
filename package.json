@@ -1,0 +1,14 @@
+{
+  "name": "worker-nodejs",
+  "version": "1.0.0",
+  "description": "Projeto para leitura de um tópico de external task Camunda",
+  "main": "index.js",
+  "scripts": {
+    "test": "teste"
+  },
+  "author": "Frederico Silva",
+  "license": "ISC",
+  "dependencies": {
+    "camunda-external-task-client-js": "^1.1.1"
+  }
+}
